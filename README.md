@@ -32,3 +32,5 @@ Live a good life.
 ## Work with me
 
 Please drop and email to lekhacduyanh at gmail dot com.
+
+## My [Notes](https://github.com/0xlkda/notes)
