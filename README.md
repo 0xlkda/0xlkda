@@ -18,6 +18,7 @@ Live a good life.
 
 ## My daily routines
 
+- Playing guitar
 - Try not to makes assumptions about our customers
 - Try increasing my store's Conversion Rate
 - Try learning new things as much as I could everyday
