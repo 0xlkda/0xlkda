@@ -5,25 +5,17 @@ My specializational interests include: web-tech, computer graphics, and tool dev
 
 ## Now
 
-- Looking for remote jobs.
+- Looking for remote jobs. [My Resumes](https://0xlkda.github.io/resume/short.pdf)
 - I live in Ho Chi Minh city.
 - Interested in AI & Machine Learning.
 - Learning WebGL, Rust (Rust is far more a perfect world; people do expect too much :pepe-bleh:)
 
-## What I do
-
-I offer end-to-end software solutions, from front-end to back-end, including user interface design, server-side development, and database management. I specialize in creating engaging and intuitive user interfaces, developing responsive web applications, and optimizing software performance.
-
-~~My goal is to deliver high-quality software solutions that meet my clients' specific needs, through customized solutions tailored to their unique business requirements.~~
-
-Live a good life.
-
 ## My daily routines
 
+- Learning new things
+- Learn more about my fellow customers
 - ~~Playing guitar~~ Making "jazz" sound
-- Learn more about our customers
-- Try increasing my store's Conversion Rate
-- Try learning new things as much as I could everyday
+- Try increasing my store's profit
 
 ## What I like
 
