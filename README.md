@@ -7,7 +7,7 @@ My specializational interests include: web-tech, computer graphics, and tool dev
 
 - Looking for remote jobs. [My Resumes](https://0xlkda.github.io/resume/short.pdf)
 - I live in Ho Chi Minh city.
-- Interested in AI & Machine Learning.
+- Interested in 3D Graphics, AI & Machine Learning.
 - Learning WebGL, Rust (Rust is far more a perfect world; people do expect too much :pepe-bleh:)
 
 ## My daily routines
