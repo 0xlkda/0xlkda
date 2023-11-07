@@ -1,7 +1,9 @@
 # Duy Anh Le
 
+I could open Street Fighter 1 by navigating on the bluescreen since 1999.
 I'm currently employed as a online store owner in Home & Decors category, but I'm always open for new and interesting oppertunities in the computer industry.
 My specializational interests include: web-tech, computer graphics, and tool development.
+
 
 ## Now
 
