@@ -4,7 +4,6 @@ I could open Street Fighter 1 by navigating on the bluescreen since 1999.
 I'm currently employed as a online store owner in Home & Decors category, but I'm always open for new and interesting oppertunities in the computer industry.
 My specializational interests include: web-tech, computer graphics, and tool development.
 
-
 ## Now
 
 - Looking for remote jobs. [My Resumes](https://0xlkda.github.io/resume/short.pdf)
@@ -28,11 +27,14 @@ My specializational interests include: web-tech, computer graphics, and tool dev
 - Good enough code
 - Good salary
 
+## [View My Notes](https://github.com/0xlkda/notes)
+
+- [11 Nov 23]: I implemented 3D Cube using Linear Algebra [Demo](https://0xlkda.github.io/notes/latest/3d.html) 
+- [04 Nov 23]: Note about 3D Graphic [Link](https://github.com/0xlkda/notes/blob/main/docs/latest/latest.md) 
+
 ## Work with me
 
 Please drop and email to lekhacduyanh at gmail dot com.
-
-## My [notes](https://github.com/0xlkda/notes)
 
 ## My reading list
  
