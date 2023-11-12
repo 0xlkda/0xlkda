@@ -14,9 +14,8 @@ My specializational interests include: web-tech, computer graphics, and tool dev
 ## My daily routines
 
 - Learning new things
-- Learn more about my fellow customers
+- Delete all the code I just wrote if I'm stuck, then leave the keyboard.
 - ~~Playing guitar~~ Making "jazz" sound
-- Try increasing my store's profit
 
 ## What I like
 
