@@ -6,7 +6,7 @@ My specializational interests include: web-tech, computer graphics, and producti
 
 ## Now
 
-- Looking for remote jobs. [My Resumes](https://0xlkda.github.io/resume/short.pdf)
+- Looking for remote jobs. [View my resume](https://0xlkda.github.io/resume/latest.pdf)
 - I live in Ho Chi Minh city.
 - Learning Computer Graphics and its derivation.
 
