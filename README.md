@@ -1,3 +1,2 @@
 - I live in Ho Chi Minh city.
-- Looking for remote jobs.
-- Resume [short resume](https://0xlkda.github.io/resume/lekhacduyanh_short.pdf), [long resume](https://0xlkda.github.io/resume/lekhacduyanh_resume.pdf)
+- Looking for remote jobs. [view my resume](https://0xlkda.github.io/resume/lekhacduyanh_resume.pdf)
