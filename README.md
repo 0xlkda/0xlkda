@@ -3,8 +3,6 @@
 
 # Something fun
 
-Unit of Digital: [Gist](https://gist.github.com/0xlkda/b9c69a808309698f34b9bc655032fcb0) 
-
-Unit of Time: [Gist](https://gist.github.com/0xlkda/6ac57cd68ad2ff5ee0edbac960591b92)
+Converters: [Gist](https://gist.github.com/0xlkda/fb2073e78abf1b5d92b6e9f704ca5a70) 
 
 [Index](https://gist.github.com/0xlkda) 
